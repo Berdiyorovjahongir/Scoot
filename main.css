@@ -476,7 +476,7 @@ img {
   margin-bottom: 40px;
 }
 .zero__main-link {
-  color: #fff;
+  color: hsl(0, 0%, 100%);
   text-align: center;
   font-family: monospace;
   font-size: 15px;
