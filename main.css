@@ -576,7 +576,7 @@ img {
 .about-hero {
   padding: 72px 0;
   background-image: url(./images/aboutBitmap.png);
-  opacity: 0.8g transparent;
+  opacity: 0.8 transparent;
   background-color: #2f3b59;
   background-blend-mode: overlay;
 }
